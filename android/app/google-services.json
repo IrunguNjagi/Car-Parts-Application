@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93593096169",
+    "project_id": "crepstore2",
+    "storage_bucket": "crepstore2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93593096169:android:b30bfdd56a0f3af2bfc578",
+        "android_client_info": {
+          "package_name": "com.example.car_parts_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93593096169-cadgb1nkmiog8k0r5kl8les0kc09qo2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjVzVbOx4230pUquQm9VHmEIwHG5KbNkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93593096169-cadgb1nkmiog8k0r5kl8les0kc09qo2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
